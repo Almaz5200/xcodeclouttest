@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		393BB7AF285BAADF00C7B3F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		39E3F646285BA01900A7A471 /* xcodecloudtestWithUnikName.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xcodecloudtestWithUnikName.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39E3F649285BA01900A7A471 /* xcodecloudtestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcodecloudtestApp.swift; sourceTree = "<group>"; };
 		39E3F64B285BA01900A7A471 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,6 +52,7 @@
 		39E3F648285BA01900A7A471 /* xcodecloudtest */ = {
 			isa = PBXGroup;
 			children = (
+				393BB7AF285BAADF00C7B3F8 /* Info.plist */,
 				39E3F649285BA01900A7A471 /* xcodecloudtestApp.swift */,
 				39E3F64B285BA01900A7A471 /* ContentView.swift */,
 				39E3F64D285BA01900A7A471 /* Assets.xcassets */,
@@ -270,6 +272,7 @@
 				DEVELOPMENT_TEAM = YAGR4TMY68;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = xcodecloudtest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +302,7 @@
 				DEVELOPMENT_TEAM = YAGR4TMY68;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = xcodecloudtest/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
