@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		39E3F646285BA01900A7A471 /* xcodecloudtest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xcodecloudtest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		39E3F646285BA01900A7A471 /* xcodecloudtestWithUnikName.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = xcodecloudtestWithUnikName.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39E3F649285BA01900A7A471 /* xcodecloudtestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = xcodecloudtestApp.swift; sourceTree = "<group>"; };
 		39E3F64B285BA01900A7A471 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		39E3F64D285BA01900A7A471 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		39E3F647285BA01900A7A471 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				39E3F646285BA01900A7A471 /* xcodecloudtest.app */,
+				39E3F646285BA01900A7A471 /* xcodecloudtestWithUnikName.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = xcodecloudtest;
 			productName = xcodecloudtest;
-			productReference = 39E3F646285BA01900A7A471 /* xcodecloudtest.app */;
+			productReference = 39E3F646285BA01900A7A471 /* xcodecloudtestWithUnikName.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -281,7 +281,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = almaz5200.xcodecloudtest1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = xcodecloudtestWithUnikName;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,7 +310,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = almaz5200.xcodecloudtest1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = xcodecloudtestWithUnikName;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
