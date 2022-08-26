@@ -7,7 +7,6 @@
     <build-runners>
       <runner id="RUNNER_1" name="Build" type="Xcode">
         <parameters>
-          <param name="additionalCommandLineParameters" value="-allowProvisioningUpdates" />
           <param name="arch" value="default" />
           <param name="buildActions" value="clean build" />
           <param name="configuration" value="Debug" />
